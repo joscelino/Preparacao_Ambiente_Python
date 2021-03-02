@@ -5,6 +5,6 @@ def test_soma():
     """ Testing soma """
 
     result = soma(2, 4)
-    concat = soma("ca", "sa")
+    concat = soma("hou", "se")
     assert result == 6
-    assert concat == "casa"
+    assert concat == "house"
