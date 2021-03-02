@@ -14,4 +14,7 @@ def soma(
 
 
 SOMA_DOIS_NUMEROS = soma(1, 2)
-SOMA_DUAS_STRINGS = soma("mar", "ia")
+SOMA_DUAS_STRINGS = soma("Mar", "ia")
+
+print(SOMA_DOIS_NUMEROS)
+print(SOMA_DUAS_STRINGS)
