@@ -7,3 +7,4 @@ venv
 __pycache__
 pip install pytest
 .pytest_cache
+*.md
