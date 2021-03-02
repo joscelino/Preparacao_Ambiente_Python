@@ -2,9 +2,7 @@ from .start import soma
 
 
 def test_soma():
-    """ Testing soma """
-
     result = soma(2, 4)
-    concat = soma("hou", "se")
+    concat = soma("ca", "sa")
     assert result == 6
-    assert concat == "house"
+    assert concat == "casa"
