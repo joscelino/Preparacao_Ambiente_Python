@@ -14,4 +14,4 @@ def soma(
 
 
 SOMA_DOIS_NUMEROS = soma(1, 2)
-SOMA_DUAS_STRINGS = soma("hou", "se")
+SOMA_DUAS_STRINGS = soma("ca", "sa")

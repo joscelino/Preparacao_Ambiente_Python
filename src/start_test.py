@@ -3,6 +3,6 @@ from .start import soma
 
 def test_soma():
     result = soma(2, 4)
-    concat = soma("ca", "sa")
+    concat = soma("came", "lo")
     assert result == 6
-    assert concat == "casa"
+    assert concat == "camelo"
