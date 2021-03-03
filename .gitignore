@@ -1,10 +1,11 @@
 **/__pycache__
-/.vscode
+*.md
+.coverage
 .mypy_cache
+.pytest_cache
 .vscode
 .vscode/*
-venv
+/.vscode
 __pycache__
 pip install pytest
-.pytest_cache
-*.md
+venv
