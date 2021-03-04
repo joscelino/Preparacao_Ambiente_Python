@@ -13,7 +13,7 @@ def soma(
     return soma_dois_valores
 
 
-SOMA_DOIS_NUMEROS = soma(1, 2)
+SOMA_DOIS_NUMEROS = soma(1, 2.0524899927999035)
 SOMA_DUAS_STRINGS = soma("Mar", "ia")
 
 print(SOMA_DOIS_NUMEROS)
