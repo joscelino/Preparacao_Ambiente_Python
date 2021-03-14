@@ -14,10 +14,16 @@ def test_soma_strings():
     assert concat == "casa"
 
 
-def test_numero_string():
+def test_numero_string_1():
     """ Testing errors """
     with pytest.raises(TypeError):
         soma("casa", 1)
+
+
+def test_numero_string_2():
+    """ Testing errors """
+    with pytest.raises(TypeError):
+        soma(2, "akc")
 
 
 def test_falta_argumentos():
