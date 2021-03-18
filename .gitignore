@@ -5,7 +5,5 @@
 .pytest_cache
 .vscode
 .vscode/*
-/.vscode
 __pycache__
-pip install pytest
 venv
