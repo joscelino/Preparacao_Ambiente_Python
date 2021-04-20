@@ -1,5 +1,6 @@
-from .start import soma
 import pytest
+
+from .start import soma
 
 
 def test_soma_numeros():
