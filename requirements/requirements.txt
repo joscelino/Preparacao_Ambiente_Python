@@ -1,0 +1,4 @@
+black~=20.8b1
+flake8~=3.8
+pre-commit~=2.10
+pytest~=6.2
