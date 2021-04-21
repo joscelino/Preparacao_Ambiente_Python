@@ -1,10 +1,13 @@
 **/__pycache__
 *.md
 .coverage
+.idea/
 .mypy_cache
 .pytest_cache
+.tox/
 .vscode
 .vscode/*
 __pycache__
+htmlcov/
+src.egg-info/
 venv
-.idea/

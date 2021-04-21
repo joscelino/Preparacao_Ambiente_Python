@@ -4,3 +4,5 @@ omit =
     migrations/*
     tests/*
     venv/*
+    requirements/*
+    .tox/*
